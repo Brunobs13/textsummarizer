@@ -8,3 +8,5 @@ artifacts/
 logs/
 
 reports/
+reports_local/
+notes_private/
